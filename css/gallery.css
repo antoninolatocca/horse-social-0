@@ -1,0 +1,56 @@
+.imageborder{border:1px solid #FFF}
+.border{border:2px solid #FFF;}
+.ruota0{transform:rotate(0deg);-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-o-transform:rotate(0deg);border:2px solid #FFF;}
+.ruota5{transform:rotate(5deg);-webkit-transform:rotate(5deg);-moz-transform:rotate(5deg);-o-transform:rotate(5deg);border:2px solid #FFF;}
+.ruota10{transform:rotate(10deg);-webkit-transform:rotate(10deg);-moz-transform:rotate(10deg);-o-transform:rotate(10deg);border:2px solid #FFF;}
+.ruota15{transform:rotate(15deg);-webkit-transform:rotate(15deg);-moz-transform:rotate(15deg);-o-transform:rotate(15deg);border:2px solid #FFF;}
+#foto1{position:absolute;width:200px;height:200px;}
+#foto2{position:absolute;width:200px;height:200px;left:200px;}
+#foto3{position:absolute;width:200px;height:200px;left:400px;}
+#foto4{position:absolute;width:200px;height:200px;left:600px;}
+#foto5{position:absolute;width:200px;height:200px;top:200px;}
+#foto6{position:absolute;width:200px;height:200px;left:200px;top:200px;}
+#foto7{position:absolute;width:200px;height:200px;left:400px;top:200px;}
+#foto8{position:absolute;width:200px;height:200px;left:600px;top:200px;}
+#foto9{position:absolute;width:200px;height:200px;top:400px;}
+#foto10{position:absolute;width:200px;height:200px;left:200px;top:400px;}
+#foto11{position:absolute;width:200px;height:200px;left:400px;top:400px;}
+#foto12{position:absolute;width:200px;height:200px;left:600px;top:400px;}
+#foto13{position:absolute;width:200px;height:200px;top:600px;}
+#foto14{position:absolute;width:200px;height:200px;left:200px;top:600px;}
+#foto15{position:absolute;width:200px;height:200px;left:400px;top:600px;}
+#foto16{position:absolute;width:200px;height:200px;left:600px;top:600px;}
+#foto17{position:absolute;width:200px;height:200px;top:800px;}
+#foto18{position:absolute;width:200px;height:200px;left:200px;top:800px;}
+#foto19{position:absolute;width:200px;height:200px;left:400px;top:800px;}
+#foto20{position:absolute;width:200px;height:200px;left:600px;top:800px;}
+#foto21{position:absolute;width:200px;height:200px;top:1000px;}
+#foto22{position:absolute;width:200px;height:200px;left:200px;top:1000px;}
+#foto23{position:absolute;width:200px;height:200px;left:400px;top:1000px;}
+#foto24{position:absolute;width:200px;height:200px;left:600px;top:1000px;}
+#foto25{position:absolute;width:200px;height:200px;top:1200px;}
+#foto26{position:absolute;width:200px;height:200px;left:200px;top:1200px;}
+#foto27{position:absolute;width:200px;height:200px;left:400px;top:1200px;}
+#foto28{position:absolute;width:200px;height:200px;left:600px;top:1200px;}
+#foto29{position:absolute;width:200px;height:200px;top:1400px;}
+#foto30{position:absolute;width:200px;height:200px;left:200px;top:1400px;}
+#foto31{position:absolute;width:200px;height:200px;left:400px;top:1400px;}
+#foto32{position:absolute;width:200px;height:200px;left:600px;top:1400px;}
+#foto33{position:absolute;width:200px;height:200px;top:1600px;}
+#foto34{position:absolute;width:200px;height:200px;left:200px;top:1600px;}
+#foto35{position:absolute;width:200px;height:200px;left:400px;top:1600px;}
+#foto36{position:absolute;width:200px;height:200px;left:600px;top:1600px;}
+#foto37{position:absolute;width:200px;height:200px;top:1800px;}
+#foto38{position:absolute;width:200px;height:200px;left:200px;top:1800px;}
+#foto39{position:absolute;width:200px;height:200px;left:400px;top:1800px;}
+#foto40{position:absolute;width:200px;height:200px;left:600px;top:1800px;}
+#Gall1{position:absolute;width:200px;height:200px;}
+#Gall2{position:absolute;width:200px;height:200px;left:200px;}
+#Gall3{position:absolute;width:200px;height:200px;left:400px;}
+#Gall4{position:absolute;width:200px;height:200px;left:600px;}
+#Gall5{position:absolute;width:200px;height:200px;left:800px;}
+#Gall6{position:absolute;width:200px;height:200px;top:300px;}
+#Gall7{position:absolute;width:200px;height:200px;top:300px;left:200px;}
+#Gall8{position:absolute;width:200px;height:200px;top:300px;left:400px;}
+#Gall9{position:absolute;width:200px;height:200px;top:300px;left:600px;}
+#Gall10{position:absolute;width:200px;height:200px;top:300px;left:1000px;}

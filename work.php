@@ -1,0 +1,1 @@
+<div style="position:absolute; left:200px; top:240px;"><H1 class="centerwhite"><b>WORK IN PROGRESS, funzionalità al momento non disponibile</b></H1></div>

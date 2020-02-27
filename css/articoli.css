@@ -1,0 +1,10 @@
+.articolo{background-color:#E2E6B5;background-image:url(images/Immagine1.png);border:2px solid #FFF; padding: 10px;}
+.articolo p{color:#000;}
+.a_data{text-align:right;font-style:italic;font-size:16px;}
+.a_occhiello{text-align:center;font-size:24px;}
+.a_titolo{text-align:center;font-size:28px;font-weight:bold;}
+.a_sommario{text-align:center;font-size:22px;font-style:italic;}
+.a_articolo{text-align:justify;font-size:14px;color:#800000;}
+.a_autore{font-weight:bold;text-align:left;}
+.a_tag a{color:#969696;}
+.a_tag a:hover{color:#F00;}

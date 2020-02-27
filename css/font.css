@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'Provafont';
+src: url('http://hightterabyte.altervista.org/font/Existence-Light-webfont.eot');
+src: local('&#9786;'), url('http://hightterabyte.altervista.org/font/Existence-Light-webfont.woff') format('woff'), url('http://hightterabyte.altervista.org/font/Existence-Light-webfont.ttf') format('truetype'), url('http://hightterabyte.altervista.org/font/Existence-Light-webfont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}

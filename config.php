@@ -1,0 +1,1 @@
+<?php include 'Magic_Quotes.php'; function connect(){ mysql_connect("localhost", "hightterabyte", "nidbimafde80x"); mysql_select_db("my_hightterabyte");} ?>

@@ -1,0 +1,10 @@
+ 
+#Titles{Font-Family:Biondi;Color:#4B50E1;}
+#Titles2{Font-Family:Biondi;Color:#D00707;}
+#Lies{Color:#83302A;}
+.Tabsx{Background-color:#CACACA;Border:2px solid #CACACA;Padding:6px;Box-shadow:8px 8px 8px #B32319;Cursor:pointer;Background-position:center 0px;Background-repeat:no-repeat;Text-decoration:none;Border-radius:6px 6px 6px 6px;Display:block;Margin-bottom:10px;Height:80px;Width:230px;Text-align:center;Color:#5A85EB;Font:bold 26px Century Gothic;}
+.Tabsx:hover{Background-color:#CACACA;Border:2px solid #CACACA;Padding:6px;Box-shadow:0px 0px 0px #B32319;Cursor:pointer;Background-position:center 0px;Background-repeat:no-repeat;Text-decoration:none;Border-radius:0px 0px 0px 0px;Display:block;Margin-bottom:10px;Height:80px;Width:230px;Text-align:center;Color:#386CE5;Font:bold 26px Century Gothic;}
+.Tabsx:Focus{Background-color:#CACACA;Border:2px solid #CACACA;Padding:6px;Box-shadow:15px 15px 15px #B3B2B2 inset;Cursor:pointer;Background-position:center 0px;Background-repeat:no-repeat;Text-decoration:none;Border-radius:0px 0px 0px 0px;Display:block;Margin-bottom:10px;Height:80px;Width:230px;Text-align:center;Color:#386CE5;Font:bold 26px Century Gothic;}
+#Input{Box-shadow:6px 6px 6px #B32319;Border-radius:5px 5px 5px 5px;Font:18px Biondi;Color:Black;}
+#massc{Color:#386CE5;Font:15px Biondi;}
+#Tabs{Margin-left:42px;padding:5px 10px;font:bold 18px Comic Sans MS;color:White;Height:60px;Width:200px;border:solid 1px #0076a3;background:#3333CC;}

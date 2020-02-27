@@ -1,0 +1,95 @@
+::selection{background:#0020c0;color:#FFF}
+body{margin:0;padding:0}
+a:link{color:#FFF}
+a:visited{color:#FFF}
+a:hover{color:#FFF}
+p{color:#FFF;font-family:arial;font-size:12px}
+.utente{color:#FFF;text-decoration:none;margin-left:8px}
+.search{background-color:#FFF;background-image:url(http://hightterabyte.altervista.org/images/cerca.png);background-position:center center;background-repeat:no-repeat;height:28px;width:65px}
+.allineatext{display:inline;float:left}
+.allineabotton{display:inline;float:left;margin-left:3px}
+label{color:#FFF;display:block;font-size:13px;font-weight:700;margin-bottom:3px}
+input[type=text],input[type=password]{margin-bottom:10px;padding:4px;width:200px}
+input[type=submit]{font-family:inherit;font-size:13px;font-weight:700;}
+.left6w{color:#FFF;size:6;text-align:left}
+#strofa{color:#FFF;font-size:22px}
+.createdby{color:#FFF;font-size:14px;text-align:center}
+.centrata{margin:0 auto;text-align:center}
+.imgbarraprofilo{vertical-align:middle}
+#recprimacolonna{height:1200px;left:200px;position:absolute;top:250px;width:250px;z-index:3}
+#recsecondacolonna{height:1200px;left:500px;position:absolute;top:250px;width:250px;z-index:3}
+#recterzacolonna{height:1200px;left:800px;position:absolute;top:250px;width:250px;z-index:3}
+.centerwhite{color:#FFF;text-align:center}
+.divpost{left:70px;position:absolute;width:500px}
+.anteprima{position:relative}
+.anteprima:hover{background-color:transparent}
+.anteprima span{background-color:#FFFFE0;border:1px dashed gray;color:#000;left:-1000px;padding:5px;position:absolute;text-decoration:none;visibility:hidden;z-index:9}
+.anteprima span img{border-width:0;padding:2px}
+.anteprima:hover span{left:40px;top:0;visibility:visible}
+.opaco{background-color:#FFF;opacity:0.6}
+#quizpage{background:url(http://static1.grsites.com/archive/textures/lgrey/lgrey176.jpg);opacity:0.8}
+.backblue{background-color:#6080FF;border:1px inset #FFF;padding:4px;}
+.backFFF{background-color:#FFF;color:#000;font-family:arial;font-size:13px;padding:10px 20px;text-align:justify}
+.backFFF2{background-color:#FFF;margin:0 auto;padding:5px;text-align:center}
+.contatti{color:#FFF;font-family:Arial, Helvetica, sans-serif;font-size:medium}
+.userpagename{color:#FFF;font-size:28px}
+.userpageemail{color:#FFF;font-size:18px}
+.testobiografia{color:#000;font-size:12px;margin-left:10px;margin-right:10px}
+#LAYdiv{background-color:#E2E6B5;border:2px solid #FFF;padding:1px 4px}
+.articolo{font-size:x-small;padding:5px}
+.occhiello{font-size:X-small;text-align:center}
+#corpoarticolo{background-image:url(http://hightterabyte.altervista.org/images/headerback.png);left:150px;position:absolute;width:920px}
+.opacoarticolo{background-color:#FFF;opacity:0.2}
+.titlearticolo{color:#000;font-size:45px;text-align:center}
+.testoarticolo{color:#000;font-size:15px;margin:20px 70px 60px 75px}
+.autorearticolo{color:#000;font-size:14px;margin-right:50px;text-align:right}
+.facciata,.centro{margin:0 auto}
+.autoo-style3,.titolo{font-size:medium}
+.sizediv{width:200px;height:200px}
+#infoprofile{position:absolute;left:740px;top:290px;z-index:5}
+.icone{position:absolute;left:200px;top:330px;width:616px;height:195px}
+.titologallery{position:absolute;width:950px;left:200px;top:250px}
+.upgallery{position:absolute;left:800px;top:264px}
+#profileimgt{overflow:hidden;left:5px;width:150px;height:150px;background-color:white}
+#postnarea{position:relative}
+.postareatxt{width:100%;height:50px;background-image:url(http://hightterabyte.altervista.org/images/notes.png);background-size:cover;background-repeat:no-repeat;background-position:center;background-attachment:scroll;padding:2px}
+.sizegallery{margin-right:10px; margin-bottom:10px; max-width:200px;max-height:200px}
+#formUnloged{left:670px;position:absolute;top:280px;width:400px}
+.eventdescription{font-size:1px;text-align:justify;color:#FFF}
+.Gwhite{text-align:justified;color:#FFF}
+.commandline{font-family:courier;font-size:15px;color:#FFF}
+.etichetta{text-shadow:0.1em 0.1em 0.15em #333;font-size:28px}
+
+.button{background:#3787bd;border-top:1px solid #828282;color:#FFF;font-family:Georgia, Serif;font-size:11px;padding:4.5px 9px;text-decoration:none;text-shadow:rgba(0,0,0,.4) 0 1px 0;vertical-align:middle}
+.button:hover{background:#3787bd;border-top-color:#3787bd;color:#3787bd}
+.button:active{background:#3787bd;border-top-color:#3787bd}
+.buttonHORSE{background-color:#A9FFFF;opacity:0.9;color:#000;font-family:Arial;font-size:18px;height:35px;text-align:left;width:180px}
+.buttonHORSE:hover{background-color:#00CCFF}
+.buttonLV{background:#3787bd;color:#FFF;font-family:Arial;font-size:14px;text-align:center;text-decoration:none;text-shadow:rgba(0,0,0,.4) 0 1px 0;vertical-align:middle}
+.buttonareaprofilo{border-top:1px solid #19bf2c;background:#039612;background:-webkit-gradient(linear, left top, left bottom, from(#00ff26), to(#039612));
+background:-webkit-linear-gradient(top, #00ff26, #039612);background:-moz-linear-gradient(top, #00ff26, #039612);background:-ms-linear-gradient(top, #00ff26, #039612);background:-o-linear-gradient(top, #00ff26, #039612);
+padding:9.5px 19px; -moz-border-radius:11px; -webkit-border-radius:11px; border-radius:11px;-webkit-box-shadow:rgba(0,0,0,1) 0 1px 0;-moz-box-shadow:rgba(0,0,0,1) 0 1px 0;box-shadow:rgba(0,0,0,1) 0 1px 0;
+text-shadow:rgba(0,0,0,.4) 0 1px 0;color:#ffffff;font-size:15px;font-family:Georgia, Serif;text-decoration:none;vertical-align:middle}
+.buttonareaprofilo:hover{border-top-color:#00d40e;background:#00d40e}
+.buttonareaprofilo:active{border-top-color:#19bf2c;background:#19bf2c}
+buttonHOME:link,buttonHOME:visited,buttonHOME:hover{color:#FFF;text-decoration:none}
+.buttonclose{text-decoration:none;background-image:url(http://hightterabyte.altervista.org/images/chiudi__effetto_rosso_bianco_arial_grassetto_18_maiuscolo_centrato_.png);height:40px;width:40px;border:0px}
+.defaultbutton{
+border-top:1px solid #2F46D6;
+background: linear-gradient(#0000A0,#2000A0);
+background: -webkit-linear-gradient(#0000A0,#2000A0);
+background: -moz-linear-gradient(#0000A0,#2000A0);
+padding:5px 10px;
+border-radius:2.5px;
+color:#FFF;
+text-decoration:none;
+vertical-align:middle;
+}
+.defaultbutton:hover{
+border-top-color: solid #0F49C2;
+background:#2020c0;
+}
+.defaultbutton:active{
+border-top-color:#4000A0;
+background:#0000ff;
+}

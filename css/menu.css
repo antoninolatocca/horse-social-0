@@ -1,0 +1,35 @@
+ 
+ul#mymenu{font:72%/1.5 Verdena,Tahoma,sans-serif;color:#FFF;background:#000;height:30px;width:100%;margin-left:5px;line-height:30px;}
+ul#mymenu,ul#mymenu li,ul#mymenu ul,ul#mymenu ul li{margin:0;padding:0;list-style-type:none;}
+ul#mymenu a{display:block;padding:0 15px;text-decoration:none;color:#FFF;}
+ul#mymenu li{float:left;position:relative;}
+ul#mymenu li li{float:none;line-height:22px;display:block !important;display:inline;}
+ul#mymenu ul{position:absolute;top:29px;left:-9999px;background:#000;color:#FFF;}
+ul#mymenu ul{padding:7px 0;border-width:0px 1px 1px 1px;border-style:solid;border-color:#FFF;width:200px;}
+ul#mymenu ul,ul#mymenu li li a{background-color:#000;color:#FFF;}
+ul#mymenu li:hover,ul#mymenu a:hover{background-color:#A2A2A2;color:#FFF;}
+ul#mymenu li:hover ul,ul#mymenu li.sfhover ul{left:-1px;z-index:100;}
+.menuutente{float:right;margin-right:20px}
+
+ul#iMenu{padding:0;margin:0;}
+ul#iMenu li{list-style:none;display:block;background:#FFBF18;margin:2px 0;padding:8px 12px;width:120px;}
+ul#iMenu a{text-decoration:none;font-family:helvetica;}
+ul#iMenu a:hover li{background:#602000;font-weight:bold;}
+
+
+/*
+    background:#C04000;
+:hover I
+	background:#F4A460;
+    border-radius:10px;
+    opacity:0,3;
+
+:hover II
+    border-radius:5px;
+/*
+
+div#wap ul img{
+	margin:2px;
+    vertical-align:middle;
+    height:26px;
+    }

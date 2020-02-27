@@ -1,0 +1,48 @@
+#W100{position:absolute;width:100%}
+#areaamicidiv{position:absolute;left:202px;top:250px}
+#areaamicirichiestediv{position:absolute;left:502px;top:250px}
+#AreaCLome{position:absolute;left:180px;top:60px;width:900px;z-index:2}
+#AreaHome{position:absolute;left:10px;top:250px}
+#AreaMenu{position:absolute;left:10px;top:250px}
+#Areaotto{position:absolute;left:220px;top:260px;width:900px}
+#AreaPost{position:absolute;left:18%;top:260px;width:46%}
+#artstore{position:absolute;left:20px;top:10px;height:280px}
+#AltobannerI{width:300px;position:absolute;left:4px;top:34px;z-index:1}
+#Backlesson{position:absolute;left:170px;top:250px;z-index:1}
+#buttonquiz{position:absolute;left:450px;top:600px;width:80px;z-index:2}
+#circleufficio{position:absolute;left:180px;top:280px;z-index:2}
+#contattiC{position:absolute;left:350px;top:290px;width:600px}
+#copertinauser{position:absolute;width:1150px;height:300px;z-index:2;background-color:#DCDCDC;background-repeat:no-repeat;overflow:hidden;background-size:cover;background-position:center;background-attachment:scroll}
+#coverchange{position:absolute;left:10px;top:10px;heigth:100px;width:200px}
+#divtrasp{position:absolute;left:220px;top:280px;width:900px;height:600px;z-index:2}
+#elipost{position:absolute;left:550px}
+#estrattoconto{position:absolute;left:200px;top:280px}
+#HEADER{position:absolute;top:70px;left:1000px}
+#indietro{position:absolute;left:1000px;top:290px;z-index:4}
+#laterale{position:absolute;left:72%;top:260px}
+#news{background-color:#E2E6B5;background-image:url(images/Immagine1.png);border:2px solid #FFF;padding:1px 4px}
+#nomeemail{position:absolute;left:180px;top:40px;width:320px}
+#OfficeFORM{position:absolute;left:700px;top:410px}
+#page{position:absolute;left:20px;top:240px}
+#pagearticolo{position:absolute;left:9px;top:250px;width:1020px}
+#pageinfo{position:absolute;top:100px;left:5%;width:90%}
+#pagestore{position:absolute;left:200px;top:250px;width:80%}
+#pannello{position:absolute;left:10px;top:30px;width:350px;height:188px;z-index:1}
+#pannellodatiutente{position:absolute;left:156px;top:40px;height:84px;z-index:1}
+#paypalareadiv{position:absolute;top:1255px}
+#Ricerca{position:absolute;left:72%;top:70px;width:300px;z-index:1}
+#storepiano{position:absolute;left:200px;width:900px;height:950px}
+#sviluppatori{position:absolute;left:72%;top:150px;width:280px}
+#testate{position:absolute;left:40px;top:240px;z-index:4}
+#trasparentearticolo{position:absolute;width:100%;height:100%;z-index:2}
+#userpagebiografia{position:absolute;left:723px;top:22px;width:410px;background-color:#FFF;opacity:0.6;z-index:4}
+#userpagedati{position:absolute;left:50px;top:500px;width:500px;color:#FFF;font-family:Georgia, Serif;font-size:18px;z-index:2}
+#userpagegallery{position:absolute;left:585px;top:480px;width:570px;z-index:2}
+#userpagegallery2{position:absolute;left:20px;top:450px;width:1150px;z-index:3}
+#userpagemessaggio{position:absolute;left:753px;top:310px;width:340px}
+#userpagerichiesta{position:absolute;left:484px;top:310px}
+#tesserauserpage{position:absolute;left:853px;top:250px;z-index:8;}
+.circle{-moz-border-radius:200px;-webkit-border-radius:200px;
+background:url(http://hightterabyte.altervista.org/utenti/1/immagini/profilo/profile_1.jpg) no-repeat center;padding:80px;text-align:center}
+div.eventiscroll{width:570px !important;width /**/:200px;height:170px !important;height /**/: 200px;overflow:auto;padding: 4px;border-right:0 solid}
+div.eventiscroll p{margin-top:0}
